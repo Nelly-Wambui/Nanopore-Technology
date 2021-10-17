@@ -12,7 +12,8 @@
   * [ION TORRENT](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#5-ion-torrent)
 * [THIRD GENERATION DNA SEQUENCING](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#third-generation-dna-sequencing)
   * [Single-molecule real-time (SMRT) sequencing by pacific biosciences](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#1-single-molecule-real-time-smrt-sequencing-by-pacific-biosciences)
-  * [NANOPORE SEQUENCING](
+  * [NANOPORE SEQUENCING](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#2-nanopore-sequencing)
+* [REFERENCES](
 
 ## INTRODUCTION TO THE DNA SEQUENCING TECHNOLOGIES
 
@@ -222,7 +223,7 @@ read” or "2D".
 
                                                                                                 NANOPORE SEQUENCING
                                                                                                 
-REFERENCES:
+## REFERENCES:
 1. James M.Heather, BenjaminChain. The sequence of sequencers: The history of sequencing DNA. Genomics
 Volume 107, Issue 1, January 2016, Pages 1-8. https://doi.org/10.1016/j.ygeno.2015.11.003
 2. Mehdi Kchouk1,3*, Jean-François Gibrat2 and Mourad Elloumi3. Generations of Sequencing Technologies: 
