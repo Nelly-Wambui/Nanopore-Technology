@@ -5,7 +5,8 @@
 * [INTRODUCTION TO THE DNA SEQUENCING TECHNOLOGIES](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#introduction-to-the-dna-sequencing-technologies)
 * [FIRST GENERATION OF DNA SEQUENCING](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#first-generation-of-dna-sequencing)
 * [SECOND GENERATION OF DNA SEQUENCING ](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#second-generation-of-dna-sequencing)
-  * [1. ROCHE 454 SEQUENCING](
+  * [ROCHE 454 SEQUENCING](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#1-roche-454-sequencing)
+  * [ILLUMINA (SOLEXA) SEQUENCING](
 ## INTRODUCTION TO THE DNA SEQUENCING TECHNOLOGIES
 
 The Human Genome Project set out to determine all the 3 billion nucleotides
