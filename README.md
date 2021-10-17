@@ -1,4 +1,9 @@
 # Nanopore Sequencing Technology
+
+## CONTENTS
+
+* [INTRODUCTION TO THE DNA SEQUENCING TECHNOLOGIES](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#introduction-to-the-dna-sequencing-technologies)
+* 
 ## INTRODUCTION TO THE DNA SEQUENCING TECHNOLOGIES
 
 The Human Genome Project set out to determine all the 3 billion nucleotides
