@@ -3,6 +3,8 @@
 ## CONTENTS
 
 * [INTRODUCTION TO THE DNA SEQUENCING TECHNOLOGIES](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#introduction-to-the-dna-sequencing-technologies)
+* [FIRST GENERATION OF DNA SEQUENCING](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#first-generation-of-dna-sequencing)
+* [SECOND GENERATION OF DNA SEQUENCING ](
 * 
 ## INTRODUCTION TO THE DNA SEQUENCING TECHNOLOGIES
 
