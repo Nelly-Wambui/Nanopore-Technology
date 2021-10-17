@@ -13,7 +13,7 @@
 * [THIRD GENERATION DNA SEQUENCING](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#third-generation-dna-sequencing)
   * [Single-molecule real-time (SMRT) sequencing by pacific biosciences](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#1-single-molecule-real-time-smrt-sequencing-by-pacific-biosciences)
   * [NANOPORE SEQUENCING](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#2-nanopore-sequencing)
-* [REFERENCES](
+* [REFERENCES](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#references)
 
 ## INTRODUCTION TO THE DNA SEQUENCING TECHNOLOGIES
 
