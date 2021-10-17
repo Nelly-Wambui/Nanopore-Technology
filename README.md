@@ -7,7 +7,8 @@
 * [SECOND GENERATION OF DNA SEQUENCING ](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#second-generation-of-dna-sequencing)
   * [ROCHE 454 SEQUENCING](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#1-roche-454-sequencing)
   * [ILLUMINA (SOLEXA) SEQUENCING](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#2-illumina-solexa-sequencing)
-  * [Sequecing by Oligonucleotide Ligation and Detection (SOLiD)](
+  * [Sequecing by Oligonucleotide Ligation and Detection (SOLiD)](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#3-sequecing-by-oligonucleotide-ligation-and-detection-solid)
+  * [DNA NANOBALL SEQUENCING](
 ## INTRODUCTION TO THE DNA SEQUENCING TECHNOLOGIES
 
 The Human Genome Project set out to determine all the 3 billion nucleotides
