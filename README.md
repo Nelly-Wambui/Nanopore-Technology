@@ -10,8 +10,9 @@
   * [Sequecing by Oligonucleotide Ligation and Detection (SOLiD)](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#3-sequecing-by-oligonucleotide-ligation-and-detection-solid)
   * [DNA NANOBALL SEQUENCING](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#4-dna-nanoball-sequencing)
   * [ION TORRENT](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#5-ion-torrent)
-* [THIRD GENERATION DNA SEQUENCING]()
+* [THIRD GENERATION DNA SEQUENCING](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#third-generation-dna-sequencing)
   * [Single-molecule real-time (SMRT) sequencing by pacific biosciences](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#1-single-molecule-real-time-smrt-sequencing-by-pacific-biosciences)
+  * [NANOPORE SEQUENCING](
 
 ## INTRODUCTION TO THE DNA SEQUENCING TECHNOLOGIES
 
