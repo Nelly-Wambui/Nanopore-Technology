@@ -9,7 +9,8 @@
   * [ILLUMINA (SOLEXA) SEQUENCING](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#2-illumina-solexa-sequencing)
   * [Sequecing by Oligonucleotide Ligation and Detection (SOLiD)](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#3-sequecing-by-oligonucleotide-ligation-and-detection-solid)
   * [DNA NANOBALL SEQUENCING](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#4-dna-nanoball-sequencing)
-  * [ION TORRENT](
+  * [ION TORRENT](https://github.com/Nelly-Wambui/Nanopore-Technology/blob/main/README.md#5-ion-torrent)
+* [THIRD GENERATION DNA SEQUENCING](
 ## INTRODUCTION TO THE DNA SEQUENCING TECHNOLOGIES
 
 The Human Genome Project set out to determine all the 3 billion nucleotides
