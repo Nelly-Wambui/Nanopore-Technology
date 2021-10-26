@@ -230,3 +230,6 @@ Volume 107, Issue 1, January 2016, Pages 1-8. https://doi.org/10.1016/j.ygeno.20
 From First to Next Generation. Kchouk et al., Biol Med (Aligarh) 2017, 9:3 
 3. Alberto Magi, Roberto Semeraro, Alessandra Mingrino, Betti Giusti, Romina D’Aurizio. Nanopore sequencing data analysis: 
 state of the art, applications and challenges. Briefings in Bioinformatics, Volume 19, Issue 6, November 2018, Pages 1256-1272
+
+
+## QUITE INTERSTING
